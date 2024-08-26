@@ -13,7 +13,10 @@ By dynamically adjusting packaging strategies and intelligently selecting high-v
 
 
 We have also submitted a PR on GitHub: https://github.com/bnb-chain/bsc-mev-info/pull/34/files
+
 And These are Blocks Samples built by our builder: https://www.bscscan.com/address/0x1319be8b8ec4aa81f501924bdcf365fbcaa8d753
+
 We look forward to your feedback and hope to discuss how our builder can benefit your operations.
+
 Thank you for your time and consideration. We hope to hear from you soon.
 
